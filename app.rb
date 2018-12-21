@@ -22,6 +22,4 @@ class App < Sinatra::Base
     params[:num1].to_i*params[:num2].to_i
   end
 
-  # Code your final two routes here:
-
 end
